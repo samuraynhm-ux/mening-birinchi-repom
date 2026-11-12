@@ -1,25 +1,26 @@
-# Samuraynhm-ux
+# Nurmuxammad Mamatkarimov
 
 
 
 ## Men haqimda
 
-- Guruh: ko‘rsatilmagan
+
+
+- Guruh: 23A
 - 
 - Yo‘nalish: Internet va axborot kommunikatsiyalari
 - 
-- Qiziqishlarim: dasturlash, yangi texnologiyalar, loyiha yaratish
+- Qiziqishlarim: dasturlash, kompyuter tarmoqlari, veb-dizayn
 - 
 
 
 ## Bu semestrda o‘rganmoqchi bo‘lganlarim
 
-- Git va GitHub bilan ishlash
-- 
-- Web-loyihalarni ishlab chiqish va jamoada ishlash
-- 
 
 
+- GitHub’da jamoada ishlashni o‘rganish
+- 
+- HTML va CSS asoslarini o‘zlashtirish
 
 
 
