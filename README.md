@@ -16,7 +16,7 @@
 
 ## Bu semestrda o‘rganmoqchi bo‘lganlarim
 
-
+https://almussa.netlify.app/
 
 • GitHub’da jamoada ishlashni o‘rganish
 
