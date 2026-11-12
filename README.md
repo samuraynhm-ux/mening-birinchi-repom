@@ -21,3 +21,4 @@ https://almussa.netlify.app/
 • GitHub’da jamoada ishlashni o‘rganish
 
 • HTML va CSS asoslarini o‘zlashtirish
+https://701uzs.atlassian.net/jira/for-you?tab=workedon
